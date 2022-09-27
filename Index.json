@@ -1,0 +1,8 @@
+{
+  "pageProps": {
+    "title": "Zeno Rocha",
+    "description": "Building world-class products that make developers happy",
+    "image": "/static/images/home-bw.jpg"
+  },
+  "__N_SSG": true
+}

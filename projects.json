@@ -1,0 +1,10 @@
+{
+  "pageProps": {
+    "title": "Projects // Zeno Rocha",
+    "tagline": "Work. Hobby. Open Source.",
+    "image": "/static/images/projects-bw.jpg",
+    "primaryColor": "cyan",
+    "secondaryColor": "green"
+  },
+  "__N_SSG": true
+}
