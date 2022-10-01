@@ -1,9 +1,9 @@
 {
   "pageProps": {
-    "title": "Projects // Zeno Rocha",
-    "tagline": "Work. Hobby. Open Source.",
-    "image": "/static/images/projects-bw.jpg",
-    "primaryColor": "cyan",
+    "title": "Projects // Alexandra Dávila",
+    "tagline": "Passion. Work. Dedication.",
+    "image": "/image-mus.jpg",
+    "primaryColor": "red",
     "secondaryColor": "green"
   },
   "__N_SSG": true
